@@ -1,0 +1,3 @@
+[submodule "engine/ioq3"]
+	path = engine/ioq3
+	url = https://github.com/ioquake/ioq3.git
